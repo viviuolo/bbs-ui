@@ -1,0 +1,16 @@
+/* Colors */
+$--color-primary: #FF791A !default;
+$--color-success: #FF791A !default;
+$--color-warning: #e6a23c !default;
+$--color-danger: red !default;
+$--color-info: #909399 !default;
+
+/* Border */
+$--border-width-base: 1px;
+$--border-style-base: solid;
+$--border-color-base: #CCCCCC !default;
+
+/* Font */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
